@@ -1,2 +1,2 @@
-# IOT_Phase1
-IOT_Phase1 submission
+# SMART WATER FOUNTAIN
+Project submission
